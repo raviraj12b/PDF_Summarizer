@@ -1,15 +1,15 @@
 # Core Dependencies
-streamlit==1.41.0
-PyPDF2==3.0.1
+streamlit
+PyPDF2
 
 # Cloud LLM APIs
-groq==0.4.2              # Groq API (Primary - Fast & Free)
-openai==1.6.1            # OpenAI API (Alternative)
-httpx==0.25.2            # Compatible with groq
-requests==2.31.0         # For HuggingFace API
+groq              # Groq API (Primary - Fast & Free)
+openai          # OpenAI API (Alternative)
+httpx        # Compatible with groq
+requests       # For HuggingFace API
 
 # PDF Export
-fpdf==1.7.2
+fpdf
 
 # Optional (if you have frontend module)
 # Add any custom frontend dependencies here
