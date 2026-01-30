@@ -1,0 +1,17 @@
+# Core Dependencies
+streamlit==1.41.0
+PyPDF2==3.0.1
+
+# Cloud LLM APIs
+groq==0.4.2
+openai==1.6.1
+httpx==0.25.2
+requests==2.31.0
+
+# PDF Export - Use FPDF2 for Unicode support
+fpdf2==2.8.1
+
+# Optional Development Dependencies (uncomment if needed)
+# pytest==7.4.0
+# black==23.3.0
+# flake8==6.0.0
